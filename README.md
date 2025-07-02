@@ -171,43 +171,6 @@ const themes = [
 ];
 ```
 
-## Deployment
-
-### Vercel (Recommended)
-```bash
-# Install Vercel CLI
-npm i -g vercel
-
-# Deploy
-vercel
-```
-
-### Other Platforms
-The app can be deployed on any platform supporting Next.js:
-- Netlify
-- AWS Amplify
-- Railway
-- DigitalOcean App Platform
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Author
-
-**Purnima Darsi**
-
-## Bug Reports & Feature Requests
-
-Please use the [GitHub Issues](https://github.com/Purnima-Darsi/NextJs-Theme-App/issues) page to report bugs or request features.
 
 ## Project Status
 
