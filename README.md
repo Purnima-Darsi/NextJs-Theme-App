@@ -75,7 +75,7 @@ For testing the application, use these credentials:
 ## Project Structure
 
 ```
-theming-app/
+NextJs-Theme-App/
 ├── src/                          # Source code
 │   ├── app/                      # Next.js App Router
 │   │   ├── api/auth/            # NextAuth API routes
